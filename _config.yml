@@ -1,6 +1,6 @@
 # Site settings
-title: Jennyhou Blog1
-SEOTitle: Jennyhou Blog2
+title: Jennyhou Blog
+SEOTitle: Jennyhou Blog
 header-img: img/home-bg.jpg
 email: edwin204083@gmail.com
 description: "this is jenny's blog"
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "Novelist Reborn Tyrant CEO <br> "
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
