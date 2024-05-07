@@ -1,16 +1,12 @@
 ---
 layout :  post
-title:  "绩效激荡20年"
-author : "黄花鱼"
+title:  "Won't You Hold On to Me?"
+author : "jenny"
 header-style: text
 catalog:  true
 tags:
   -web
   -Javascript
 ---
->雪碧(doodlewind)邀请我给[《Javascript 二十年》](https://zhuanlan.zhihu,com/p/373065151)写的推荐序。
-Javascript常常被戏称为一门偶然成功的玩具语言。而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，
-它因此成为多方角力的战-黄玄，Facebook 软件工程师(编程语言、JS 引擎、前端基础设施)、中文前端社区活跃成员。
-
-
--黄花鱼
+>【Reserved CEO x Pure-hearted Young Master】After being fatally hit by a car, Ethan Chase turned into a spirit. It was only from this new perspective that he truly understood who was sincere and who was deceitful.Nathan Jennings, the CEO whom Ethan previously disdained and even feared to approach, turned out to be the only person who mourned him after his death.And Scott Garrison, who seemed gently caring, was a scoundrel who approached Ethan solely for embezzling funds and eventually led to his family's ruin!Watching Nathan seek vengeance for him and weep for him, Ethan, besides shedding tears, could do nothing else."Nathan, I'm sorry, so sorry... If there's a next life, I will—!"With a return to life, Ethan decides to truly live and reform himself!Nathan Jennings? Quickly fall in love and not betray the opportunity!"Ethan, how are you now? Still feeling bad?""Ugh… it hurts!" Ethan greedily gazed at the man before him, his heart bursting with relief from the narrow escape."Where does it hurt? Come on, let's go to the hospital.""Actually, Nathan, no need for the hospital." Ethan's hand found Nathan's neck: "Just hold me, and I won't feel bad anymore."The jerk Scott Garrison? Set a trap for him to fall in! Duped him till his last penny!"Scott, it's just betrayal, divorce, and bankruptcy. Can't handle it?"Tags: Wealthy CEO, Sweet Romance, Elite Families, Modern, Sweet Romance, Pure Love, Lightly Thrilling Daily Life, Ambiguous Roles
+-Jenny
