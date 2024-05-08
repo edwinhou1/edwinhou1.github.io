@@ -1,32 +1,81 @@
 ---
-layout:     post
-title:      "中国高等教育的系统性失败"
-subtitle:   "The Systematic Failure of Higher Education in China"
-date:       2021-01-19 12:00:00
-author:     "Hux"
-catalog: false
-published: false
+layout :  post
+title:  "Chapter 3: Julian Jian's Sincere Emotions "
+author : "Jenny"
 header-style: text
+catalog:  true
 tags:
-  - 被夹
+  -web
+  -Javascript
 ---
+>Rebirth: Don't Give Up on Me, Okay?
+Author: Jenny
+Synopsis:
+Chase Carter never thought that the first person to come after his death would be Julian Jian.  
+Julian was a few years older than Chase. Because their families were old acquaintances, they were quite familiar with each other.  
+Julian was competent at managing the company. At a young age, he had become independent from the Jian family, established his own company, and his business was booming. This success not only elevated Julian but also raised the entire Jian family.  
+Though Julian seemed impressive, Chase's impression of him wasn't quite so positive.  
+Yes, Julian was handsome. Even with his often cold demeanor, he was undeniably good-looking.  
+The first time Chase met Julian, he was quite taken aback by his appearance. So, he admitted that Julian was a handsome guy.  
+Chase also admitted that had Julian's disposition appealed to him, he might have been rather clingy.  
+Chapter 3: Julian Jian's Sincere Emotions  
+Chase Carter never thought that the first person to come after his death would be Julian Jian.  
+Julian was a few years older than Chase. Because their families were old acquaintances, they were quite familiar with each other.  
+Julian was competent at managing the company. At a young age, he had become independent from the Jian family, established his own company, and his business was booming. This success not only elevated Julian but also raised the entire Jian family.  
+Though Julian seemed impressive, Chase's impression of him wasn't quite so positive.  
+Yes, Julian was handsome. Even with his often cold demeanor, he was undeniably good-looking.  
+The first time Chase met Julian, he was quite taken aback by his appearance. So, he admitted that Julian was a handsome guy.  
+Chase also admitted that had Julian's disposition appealed to him, he might have been rather clingy.  
+But Julian tended to meddle a lot in Chase's life. Since the two families were close, Julian and Chase often met, and as an outstanding contemporary, Julian was prone to make comparisons.  
+Chase was a rather carefree and spontaneous person, a bit more naive than most, who only wanted to enjoy life to the fullest without worrying about work or social obligations.  
+Given that his parents had always pampered him, as the sole heir of the Carter family, living happily was all that mattered. The cutthroat world of business was unrelated to Chase.  
+Hence, Chase detested being constrained, and Julian Jian was the person who liked to constrain him most.  
+As the "child next door," when Chase was applying for college, Julian provided him with many suggestions.  
+Taking Julian's advice, Chase applied to that college, only to later find out that the professor of his major knew Julian.  
+Julian asked the professor to be strict with Chase, leading to Chase always being singled out in class and his assignments scrutinized rigorously.  
+For a long time, the usually cheerful young master lived with a distressed and haggard expression.  
+"Why did you tell Professor Li to be stricter with me!" Chase vented his frustrations towards Julian: "I've been living in fear of failing my exams, and I'm busy all the time!"  
+"It's for your own good. Don't you feel your life is more fulfilled?"  
+"Fulfilled? Sure, so fulfilled I don't even have time to drink with friends!"  
+Later, when Chase encountered Scott Garrison and they were at their most intimate, Julian threw cold water on him.  
+"I advise you not to get too close to Scott."  
+"Why?" Chase was incredulous: "We get along very well."  
+"His intentions are not pure."  
+Chase immediately retorted: "What do you mean, not pure? He's been very nice to me. I think you're just being paranoid."  
+In the end, when Chase and Scott became a couple, all his friends sent their blessings, except for Julian, who opposed the relationship.  
+"I advise you to reconsider this relationship."  
+This time, Chase ran out of patience: "What’s it to you, Julian? We're not that close, so why are you meddling in my life? Who I date is my business, not yours!"  
+Julian fell silent, his gaze towards Chase dark and inscrutable. In his eyes, Chase was like a stubborn animal, charging headlong in the wrong direction.  
+Eventually, Julian simply closed his eyes and said, "I'm sorry."  
+Back then, Chase felt victorious, thinking he had finally escaped Julian's constraints. Looking back now, he realized what a huge joke that was.  
+In reality, every piece of advice Julian gave him was spot-on.  
+In college, thanks to the professor Julian recommended, though Chase struggled, he excelled in economics and management.  
+When the Carter family started to decline and his father fell ill, it was Julian's advice that allowed Chase to barely support the company and his family.  
+Julian had been right about Scott's intentions. Now that Chase saw the truth, he realized Julian's genuine concern.  
+And now, the person who came to see him was still Julian.  
+Chase sighed. Suddenly, he felt that everything he had done in the past twenty years was wrong, and he should have been better to Julian.  
+Julian stood at the door, looking at the person covered with a white sheet on the bed. At first, he couldn't believe it, then gradually, his shock faded until his eyes turned inscrutable again.  
+But he still stood at the doorway, not moving. Perhaps others might not understand his thoughts, but he didn't dare to enter.  
+He feared seeing Chase's all too familiar face. Even though he knew the truth, the strong Julian could not bring himself to walk past indifferently.  
+A secretary-like figure stood beside Julian, about twenty-five or twenty-six years old, carrying a briefcase and wearing black-rimmed glasses.  
+"President..." Secretary Liu hesitated.  
+Julian didn't speak. He closed his eyes and then walked towards the bed.  
+Noticing Julian coming, Chase quickly made room for him. The two stood side by side, one real and one ethereal, one knowing and the other unable to see.  
+"..." Julian stared at the white sheet covering Chase, then reached out and slowly lifted it.  
+As soon as Chase's face was revealed, Julian let go of the sheet.  
+Being intangible, Chase couldn't lift the sheet covering him. He was curious about his appearance - was it muddied, twisted in pain?  
+He leaned in to look at himself.  
+Lying on the bed, he looked peaceful, his face not contorted in anguish. If one ignored the mud on his face, he actually looked rather handsome.  
+"My eyelashes are really long," even at a time like this, Chase couldn't resist commenting.  
+Not too bad, not too dreadful— at least his face was intact.  
+Comforting himself with this thought, Chase turned to see Julian's reaction but suddenly heard a soft sound.  
+"—Drip."  
+What was that noise? Chase wondered.  
+Then, noticing the two spreading stains on the pristine sheet, Chase belatedly turned and saw Julian's trembling hand.  
+Julian's face remained expressionless if one ignored his reddened eyes.  
+Julian furrowed his brow, extended his hand, and gently wiped the mud from Chase's cheek.  
+Following that, Chase watched as the tall man, holding his hand, slowly knelt down.  
+"Breaking news on XX Road tonight, an accident resulted in one fatality and one injury. Details of the case are currently under investigation..."
 
-> 该回答在知乎问题[「如何评价上海交通大学 18 级计算机系第一名「迟先生」的言论？」](https://www.zhihu.com/question/439622084/answer/1685314467) 下无原因被夹。
-> 询问我的「专属小管家」多次后仍然给不出任何原因与具体修改意见，自己多次尝试小幅修改无果，干脆直接将原文发上来吧。
 
 
-高票 [@Youngster38324 的回答](https://www.zhihu.com/question/439622084/answer/1681505518)透露出来的本质上是「**中国高等教育的系统性失败**」，逐层来看:
-
-1. 「**进大学前唯分数和同质化教育**」导致了太多人去大学后根本不知道自己要干嘛，很多人专业根本就不是自己选的更不要说知道自己有没有兴趣了，即便是很多高分考生也路径依赖地以为继续努力填鸭就能成功，没有意识到高考后的人生已经换赛道了。这里对比美国高中生的 AP（Advanced Placement）预科制度以及整体社会鼓励向自我发展看而不是向钱看的风气。
-
-2. 「**进大学后专业制度没有容错性**」，即便已经发现自己不喜欢被录取专业了也没有办法，因为转专业制度毫无人性（通常要求你先要在你已经不喜欢了的本专业内卷到班级前多少名）。对比美国本科，专业可以 undecided（先上课再决定专业，比如经典的哈佛 CS50，你上下来感兴趣了再去选 CS）；学位本身只是某个学科下课程学分累计的自然结果，因此可以灵活的转专业与多学位；班级这种促进内卷的概念被弱化，强调跟自己比关注个人的成长，学生自己控制上几年课，念几个学位，中间休学一下都没关系。
-
-3. 前两步的结果就是导致大学为了毕业率把「**评判标准搞成了大锅饭平均主义**」，为了能够每年顺利向社会输送一批（80% 将来都不会从事本专业）的人才，打分根据每年学生情况动态规划自适应，把大学搞成了「严进宽出」。相反美国的大学教育强调「宽进严出」，无论你底子如何，无论重修几次，你只要通过了某个（相对稳定的）客观标准就是合格，为了保证该制度的机械性运作，辅以严格的日常作业计分，对「作弊」零容忍（自动化判重，发现一次重修两次退学）。
-
-4. 平均主义进一步导致「**课程设置没有灵活性无法自定义**」，老师不但要照顾及格率还有一颗圣母心希望那些对专业没什么兴趣的人能好歹学到点东西，同时又真心欣赏且想要给予好学的尖子生资源，最后即便绞尽脑汁了也还是只能弄出个在差生里下限高在尖子生里上限低的课程安排两面不当人 —— 尖子生觉得课程要求太低不能激发自己的潜力喂不饱（常见于私下要求加难度或者去无学分旁听），摸鱼的觉得老师影响了我的快乐学习（常见于课堂上一布置作业下面就叫苦连天）该挂还是挂或者 60 分万岁。对比美国，学生的课程表可以自行安排，通常一个课会开多个班次照顾灵活性，学霸可以比别人多上任意节课，也可以跨专业选课或者减少课程增加实习或研究，而且难度自选只要你点过前置技能就行。
-
-有类似迟先生这样诉求的人很多，可是一个系统很难由系统内的个体改变，所以很多个体选择了做局部优化趋利避害陪玩成为既得利益者，或者全局优化更换自己所处的系统。
-
-只要所处系统里的大部分个体都已经默许了这个游戏规则，无论迟先生是「凡尔赛」还是「理想主义」，改变赛道规则就会被其他个体认为侵害到利益。小孩才分对错，成年人的屁股都是歪得，都是各取所需。
-
-**都是这个时代的缩影。**
