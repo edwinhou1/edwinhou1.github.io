@@ -1,7 +1,7 @@
 ---
 layout :  post
 title:  "Won't You Hold On to Me? Chapter 1: Completely Gone  "
-author : "jenny"
+author : "Jenny"
 header-style: text
 catalog:  true
 tags:
@@ -9,7 +9,7 @@ tags:
   -Javascript
 ---
 >Rebirth: Don't Give Up on Me, Okay?
-Author: Huai Huai Not Bad
+Author: Jenny
 Synopsis:
 [Cold Aloof CEO x Innocently Naive Young Master]
 After a fatal car accident, Alex Chu, became a spirit. Observing the world from a third-person view, he discerned who was truly kind and who was masquerading.
