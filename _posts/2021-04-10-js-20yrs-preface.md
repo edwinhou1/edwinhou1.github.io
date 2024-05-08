@@ -1,7 +1,7 @@
 ---
 layout :  post
 title:  "Chapter 2: He Only Made Me Feel Sick"
-author : "jenny"
+author : "Jenny"
 header-style: text
 catalog:  true
 tags:
@@ -9,7 +9,7 @@ tags:
   -Javascript
 ---
 >Rebirth: Don't Give Up on Me, Okay?
-Author: Huai Huai Not Bad
+Author: Jenny
 Synopsis:
 [Cold Aloof CEO x Innocently Naive Young Master]
 Chase Carter still remembered the way Scott Garrison confessed his feelings to him.  
