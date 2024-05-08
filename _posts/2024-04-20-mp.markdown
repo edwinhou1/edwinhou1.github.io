@@ -1,6 +1,6 @@
 ---
 layout :  post
-title:  "Won't You Hold On to Me?"
+title:  "Won't You Hold On to Me? Chapter 1: Completely Gone  "
 author : "jenny"
 header-style: text
 catalog:  true
